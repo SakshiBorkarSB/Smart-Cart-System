@@ -1,2 +1,2 @@
 # smart-cart-system
-An e-commerce customer segmentation system
+An end-to-end Unsupervised Machine Learning Pipeline to group customers based on their similarities and behavioral patterns to identify meaningful customer segments that can help businesses make data-driven decisions. Implemented K Means Custering and Agglomerative Clustering, performed EDA (Exploratory Data Analysis), applied feature engineering, visualized customer clusters to identigy potential customer groups.
